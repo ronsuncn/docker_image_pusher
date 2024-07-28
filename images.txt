@@ -1,5 +1,6 @@
-wcjiang/linux-command:latest
+wcjiang/reference:latest
 #已经下载的镜像在下面
+#wcjiang/linux-command:latest
 #nginx:latest
 #centos:7
 #ubuntu:24.04
